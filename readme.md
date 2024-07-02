@@ -17,3 +17,7 @@ The following icons were uploaded uncompressed, before using Imgbot:
 - OneDev
 
 The uncompressed versions can be found at the initial commit of the worktree
+
+# Featured Technologies
+[![Adobe PhotoShop](https://img.shields.io/badge/PhotoShop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=001e36)](https://photoshop.com)
+[![Adobe Illustrator](https://img.shields.io/badge/illustrator-ff9a00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=001e36)](https://adobe.com/products/illustrator)
