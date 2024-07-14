@@ -5,7 +5,9 @@ This repository holds logos uploaded to [Custom Icon Badges](https://custom-icon
 [![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-232632.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
 [![OneDev](https://custom-icon-badges.demolab.com/badge/OneDev-23232c.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
 [![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-white.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
-[![Docker Scout](https://custom-icon-badges.demolab.com/badge/docker%20scout-376a5f.svg?style=for-the-badge&logo=docker-scout&logoColor=white)](https://www.docker.com/products/docker-scout/)
+[![Docker Scout](https://custom-icon-badges.demolab.com/badge/docker%20scout-376a5f.svg?style=for-the-badge&logo=docker-scout)](https://www.docker.com/products/docker-scout/)
+[![Wix Velo](https://custom-icon-badges.demolab.com/badge/velo-by%20wix-black.svg?style=for-the-badge&logo=velo&labelColor=0C6EFC)](https://wix.com)
+
 
 # Compression
 This repository uses [Imgbot](https://imgbot.net/) to compress the files within it.<br>
