@@ -8,6 +8,7 @@ This repository holds logos uploaded to [Custom Icon Badges](https://custom-icon
 [![Docker Scout](https://custom-icon-badges.demolab.com/badge/docker%20scout-376a5f.svg?style=for-the-badge&logo=docker-scout)](https://www.docker.com/products/docker-scout/)
 [![Wix Velo](https://custom-icon-badges.demolab.com/badge/velo-by%20wix-black.svg?style=for-the-badge&logo=velo&labelColor=0C6EFC)](https://wix.com)
 [![Imgbot](https://custom-icon-badges.demolab.com/badge/imgbot-438977?style=for-the-badge&logo=imgbot)](https://imgbot.net)
+[![nginx-proxy](https://custom-icon-badges.demolab.com/badge/nginx--proxy-F0F0F0?style=for-the-badge&logo=nginx-proxy-identicon&logoColor=D4AB64)](https://github.com/nginx-proxy/nginx-proxy)
 
 # Compression
 This repository uses [Imgbot](https://imgbot.net/) to compress the files within it.<br>
