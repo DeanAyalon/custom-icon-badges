@@ -11,7 +11,7 @@ This repository holds logos uploaded to [Custom Icon Badges](https://custom-icon
 
 ## Identicons
 [![nginx-proxy](https://custom-icon-badges.demolab.com/badge/nginx--proxy-F0F0F0?style=for-the-badge&logo=nginx-proxy-identicon&logoColor=D4AB64)](https://github.com/nginx-proxy/nginx-proxy)
-[![evab](https://custom-icon-badges.demolab.com/badge/evab-F0F0F0?style=for-the-badge&logo=evab-identicon&logoColor=94d669)](https://github.com/evab)
+[![evab](https://custom-icon-badges.demolab.com/badge/evab-F0F0F0?style=for-the-badge&logo=evab-identicon&logoColor=94d669)](https://github.com/eranbraun)
 
 # Compression
 This repository uses [Imgbot](https://imgbot.net/) to compress the files within it.<br>
