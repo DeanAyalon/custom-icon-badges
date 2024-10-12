@@ -6,6 +6,7 @@ This repository holds logos uploaded to [Custom Icon Badges](https://custom-icon
 [![OneDev](https://custom-icon-badges.demolab.com/badge/OneDev-23232c.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
 [![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-white.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
 [![Docker Scout](https://custom-icon-badges.demolab.com/badge/docker%20scout-376a5f.svg?style=for-the-badge&logo=docker-scout)](https://www.docker.com/products/docker-scout/)
+![Docker Container](https://custom-icon-badges.demolab.com/badge/docker%20container-10151a?style=for-the-badge&logoColor=white&logo=docker-container)<br>
 [![Wix Velo](https://custom-icon-badges.demolab.com/badge/velo-by%20wix-black.svg?style=for-the-badge&logo=velo&labelColor=0C6EFC)](https://wix.com)
 [![Imgbot](https://custom-icon-badges.demolab.com/badge/imgbot-438977?style=for-the-badge&logo=imgbot)](https://imgbot.net)
 
